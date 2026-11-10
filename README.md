@@ -107,6 +107,25 @@ Areas of interest include:
 
 As repositories become available, this section will link to their source code, documentation, and development progress.
 
+
+<div align="center">
+
+<a href="https://github.com/Artiveda/artiveda">
+  <img
+    src="https://img.shields.io/badge/ARTIVEDA-Explore%20Repository-173D38?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore Artiveda Repository"
+  />
+</a>
+
+### Artiveda
+**Company Repository**
+
+Explore Artiveda's GitHub repository, project information, and development documentation.
+
+[**View Repository →**](https://github.com/Artiveda/artiveda)
+
+</div>
+
 ---
 
 ## Contributions & Collaboration
